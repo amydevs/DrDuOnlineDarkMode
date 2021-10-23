@@ -3,7 +3,7 @@ const { app, dialog, BrowserWindow } = require('electron')
 const electron = require('electron')
 
 
-const appPath = path.join(__dirname, '../app.bak')
+const appPath = path.join(__dirname, '../app.asar')
 
 app.getAppPath = () => { return appPath }
 
