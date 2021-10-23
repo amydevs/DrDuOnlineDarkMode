@@ -1,0 +1,7 @@
+{
+  "name": "drduapp",
+  "productName": "Dr. Du Online",
+  "version": "1.9.0",
+  "description": "Dr. Du Online",
+  "main": "index.js"
+}
